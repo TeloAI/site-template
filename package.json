@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@munieos/sdk": "workspace:*",
+    "@munieos/sdk": "file:./packages/sdk",
     "next": "^15",
     "react": "^19",
     "react-dom": "^19",
